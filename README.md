@@ -4,8 +4,8 @@
 
 I'm currently pursuing a degree in Artificial Intelligence & Machine Learning and have a strong interest in web development and coding. I enjoy turning ideas into real-world projects and continuously exploring new technologies.
 
-- 🌱 Actively learning Web Development (MERN Stack) and Data Structures & Algorithms
-- 💡 Comfortable with Python, C++, Git & GitHub , HTML , CSS , Javascript
+- 🌱 Actively learning Data Structures & Algorithms
+- 💡 Comfortable with Python, C++, Git & GitHub , HTML , CSS , Javascript 
 - 🚀 Always eager to learn, build, and grow as a developer
 
 ---
